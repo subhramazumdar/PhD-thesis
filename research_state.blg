@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: research_state.aux
+The style file: IEEEtranS.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: PCN.bib
+-- IEEEtranS.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for normal IEEE work.
+Warning--to sort, need author, organization, or key in raiden
+Warning--to sort, need author, organization, or key in atomic
+Warning--empty year in atlasinevitability
+Warning--empty journal in nakamoto2008bitcoin
+Warning--empty journal in o2014bitcoin
+
+Done.
+You've used 36 entries,
+            4483 wiz_defined-function locations,
+            1053 strings with 14838 characters,
+and the built_in function-call counts, 28175 in all, are:
+= -- 2417
+> -- 924
+< -- 125
++ -- 460
+- -- 250
+* -- 1425
+:= -- 4222
+add.period$ -- 86
+call.type$ -- 36
+change.case$ -- 232
+chr.to.int$ -- 324
+cite$ -- 41
+duplicate$ -- 1842
+empty$ -- 2267
+format.name$ -- 281
+if$ -- 6292
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 332
+newline$ -- 131
+num.names$ -- 68
+pop$ -- 1043
+preamble$ -- 1
+purify$ -- 196
+quote$ -- 2
+skip$ -- 2021
+stack$ -- 0
+substring$ -- 981
+swap$ -- 1232
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 394
+warning$ -- 5
+while$ -- 125
+width$ -- 38
+write$ -- 323
+(There were 5 warnings)
